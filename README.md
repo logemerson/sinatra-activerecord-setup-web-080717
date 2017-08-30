@@ -13,7 +13,7 @@ Sinatra doesn't come with database support out of the box, but it's relatively e
 
 ## Instructions
 
-Fork and clone this repository to get started! We have a basic sinatra application stubbed out with an `app.rb` file acting as the controller.
+Fork and clone this repository to get started! We have a basic Sinatra application stubbed out with an `app.rb` file acting as the controller.
 
 ### Adding Your Gems
 
